@@ -9,5 +9,5 @@ class InvestmentTrackerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+       
 }
